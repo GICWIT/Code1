@@ -23,7 +23,7 @@ namespace Hello_World
 
             /*Wait for the 
             user*/
-            Console.ReadLine();
+            //Console.ReadLine();
         }
     }
 }
